@@ -24,7 +24,7 @@
 
 
 ## Design Patterns
-The following design patterns are use in the code:
+The following design patterns are used in the code:
 
 **Strategy Pattern**:
 
